@@ -1,0 +1,6 @@
+framework module BeautyKit {
+  umbrella header "BeautyKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

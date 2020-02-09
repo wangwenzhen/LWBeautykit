@@ -1,0 +1,16 @@
+PODS:
+  - BeautyKit (0.0.6)
+
+DEPENDENCIES:
+  - "BeautyKit (from `/Volumes/一世繁华/编程练习/iOS/TestD/Pods/Local Podspecs/BeautyKit`)"
+
+EXTERNAL SOURCES:
+  BeautyKit:
+    :path: "/Volumes/一世繁华/编程练习/iOS/TestD/Pods/Local Podspecs/BeautyKit"
+
+SPEC CHECKSUMS:
+  BeautyKit: 32c282859234b24f454c072303ee7812fdc8e22b
+
+PODFILE CHECKSUM: daeb228959eb9cf7f057af97777d56c6dada411d
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,22 @@
+{
+  "name": "BeautyKit",
+  "version": "0.0.6",
+  "summary": "公共类",
+  "description": "Foundation&UIKit扩展",
+  "homepage": "https://github.com/wangwenzhen/BTPhotoBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Little.Daddly": "575385842@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/wangwenzhen/BTPhotoBrowser.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "LWBeautyKit/BeautyKit/**/*.{h,m}"
+}

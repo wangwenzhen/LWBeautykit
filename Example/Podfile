@@ -1,6 +1,8 @@
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+
 use_frameworks!
 target 'LWBeautykit_Tests' do
-  pod 'LWBeautykit', :path => '../'
+  pod 'BeautyKit', :path => '/Volumes/一世繁华/编程练习/iOS/TestD/Pods/Local Podspecs/BeautyKit'
   
-  
+
 end
